@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "VET",
+"productVersion": "0.1",
+"dataUrl": "VEET_intervention_short.data.unityweb",
+"wasmCodeUrl": "VEET_intervention_short.wasm.code.unityweb",
+"wasmFrameworkUrl": "VEET_intervention_short.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.4f1"
+}
